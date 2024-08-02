@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bipasha-chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bipasha-chatterjee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bipasha-chatterjee-0ab3b5255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5yUxKSO7TGisgdMV2BDIlQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bipasha-chatterjee-0ab3b5255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5yUxKSO7TGisgdMV2BDIlQ%3D%3D" height="30" width="40" /></a>
 <a href="https://instagram.com/bipashac._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bipashac._" height="30" width="40" /></a>
 </p>
 
